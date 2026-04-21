@@ -13,7 +13,7 @@ export default function Terms() {
                     <ArrowLeftIcon className="w-4 h-4" />
                     Back to Chatbot
                 </Link>
-                <h1 className="text-3xl font-bold">MyAI3</h1>
+                <h1 className="text-3xl font-bold">Running Coach AI</h1>
                 <h2 className="text-2xl font-semibold">Terms of Use / Disclaimer</h2>
 
                 <p className="text-gray-700">
@@ -29,10 +29,8 @@ export default function Terms() {
                     <ol className="list-decimal list-inside space-y-3">
                         <li className="text-gray-700">
                             <span className="font-semibold">Provider and Purpose:</span> The
-                            AI Chatbot is a tool developed and maintained by {OWNER_NAME}. It
-                            is intended solely to assist users with questions and coursework
-                            related to courses taught by {OWNER_NAME}. The AI Chatbot is not
-                            affiliated with, endorsed by, or operated by the course provider.
+                            AI Chatbot is a tool developed and maintained by {OWNER_NAME}. 
+                            It is intended solely to provide general running and marathon coaching guidance for informational and educational purposes only.
                         </li>
                         <li className="text-gray-700">
                             <span className="font-semibold">Third-Party Involvement:</span>{" "}
@@ -199,7 +197,7 @@ export default function Terms() {
                 </div>
 
                 <div className="mt-8 text-sm text-gray-600">
-                    <p>Last Updated: November 17, 2025</p>
+                    <p>Last Updated: April 21, 2026</p>
                 </div>
             </div>
         </div>
